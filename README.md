@@ -1,4 +1,4 @@
-# NoProcrastination-Chrom-Extension
+# NoProcrastination-Chrome-Extension
 
 ## A chrome extension which blocks all the social media websites and youtube till you finish your work.
 
